@@ -1,1 +1,1 @@
-# Your Code Here
+method_using_block {'puts hi'}
